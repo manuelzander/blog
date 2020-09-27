@@ -4,3 +4,7 @@
 _site/
 Gemfile.lock
 **/.ruby-version
+
+.cache/
+node_modules/
+public/
