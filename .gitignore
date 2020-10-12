@@ -8,3 +8,5 @@ Gemfile.lock
 .cache/
 node_modules/
 public/
+
+.vscode/
