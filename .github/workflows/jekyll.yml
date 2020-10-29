@@ -32,5 +32,5 @@ jobs:
           jekyll_cfg: '_config.yml'  # Default is _config.yml
           jekyll_baseurl: ''         # Default is using _config.yml
           bundler_ver: '>=0'         # Default is latest bundler version
-          cname: 'manzan.dev'        # Default is to not use a cname
+          cname: ''                  # Default is to not use a cname
           actor: 'actions'           # Default is the GITHUB_ACTOR

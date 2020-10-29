@@ -1,6 +1,6 @@
 repository: manuelzander/blog
 
-baseurl: ""
+baseurl: "blog"
 
 layout: sidebar
 style: dark
@@ -25,7 +25,7 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
+  limit: 12
   exclude:
     archived: false
     forks: false
